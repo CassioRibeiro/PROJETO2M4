@@ -1,4 +1,4 @@
-# FORMAÇÃO EM ANÁLISE DE DADOS SENAC/RESILIA
+# FORMAÇÃO ANÁLISE DE DADOS SENAC/RESILIA
 ### MÓDULO 4 - PROJETO INDIVIDUAL 2
 
 * O projeto consiste em analisar os dados da companhia Milsa através do seu arquivo csv fornecido pela mesma onde as seguimtes perguntas devem ser respondidas;
